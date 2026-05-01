@@ -6,11 +6,11 @@ export const Home = () => {
             <RevealOnScroll>
                 <div className="text-center z-10 px-4">
                     <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent leading-right">
-                        Hi, I'm Diane and welcome to my portfolio!
+                         Hi, I’m Diane — Security Focused QA Engineer
                     </h1>
 
                     <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                        QA engineer who specializes in manual and automation testing.
+                        CompTIA Security+ certified professional with a background in Software QA, experienced in analyzing system behavior, reviewing logs, and identifying anomalies in production environments. Skilled in validating access controls and troubleshooting security-impacting issues, with hands-on experience in cybersecurity labs, threat detection, and system hardening.
                     </p>
                     <div    className="flex justify-center space-x-4">
                         <a  href="#projects" 
